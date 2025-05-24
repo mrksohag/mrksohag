@@ -5,7 +5,7 @@
   <img align="left" alt="Mizanur Rahman Khan | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://mrksohag.com">
-  <img align="left" alt="Mizanur Rahman Khan" width="22px" src="https://www.kaggle.com/static/images/favicon.ico" />
+  <img align="left" alt="Mizanur Rahman Khan" width="22px" src="https://mrksohag.com/frontend/cooper/images/mrksohag-fav.png" />
 </a>
 
 
