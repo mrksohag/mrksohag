@@ -7,6 +7,9 @@
 <a href="https://mrksohag.com">
   <img align="left" alt="Mizanur Rahman Khan" width="22px" src="https://mrksohag.com/frontend/cooper/images/mrksohag-fav.png" />
 </a>
+<a href="https://mrkstech.com/">
+  <img align="left" alt="Mrks Tech" width="22px" src="https://mrkstech.com/images/mrkstech-64x64.png" />
+</a>
 
 
 <a href="https://github.com/mrksohag" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=mrksohag&label=Profile%20views&color=129e00" alt="mrksohag" /> </p><a/> 
