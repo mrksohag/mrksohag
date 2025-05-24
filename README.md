@@ -11,9 +11,11 @@
 
 <a href="https://github.com/mrksohag" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=mrksohag&label=Profile%20views&color=129e00" alt="mrksohag" /> </p><a/> 
 
+I am Mizanur Rahman Khan, Fullstack Lead Developer with 11.5+ years of experience working with software development. 
+
 <br/>
 
-Fullstack Lead Developer with 11.5+ years of experience working with software development. Expert in PHP (Laravel, CodeIgniter, CakePHP, Magento, WordPress), Mobile App(Java-Android, iOS - Swift, React Native and Flutter), MySQL, JavaScript (React, Vue, Angular JS, and jQuery), Bootstrap, UiKit, CSS and HTML. Someone who can use skills, demonstrate creativity, illustrate independent thinking, and gather up-to-date knowledge for development.
+Expert in PHP (Laravel, CodeIgniter, CakePHP, Magento, WordPress), Mobile App(Java-Android, iOS - Swift, React Native and Flutter), MySQL, JavaScript (React, Vue, Angular JS, and jQuery), Bootstrap, UiKit, CSS and HTML. Someone who can use skills, demonstrate creativity, illustrate independent thinking, and gather up-to-date knowledge for development.
 
   
 <div align="center">
