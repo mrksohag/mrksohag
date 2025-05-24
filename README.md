@@ -14,7 +14,7 @@
 
 <a href="https://github.com/mrksohag" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=mrksohag&label=Profile%20views&color=129e00" alt="mrksohag" /> </p><a/> 
 
-I am Mizanur Rahman Khan, Fullstack Lead Developer with 11.5+ years of experience working with software development. 
+I am Mizanur Rahman Khan, Fullstack Lead Developer with 11.5+ years of experience working with software development.  
 
 <br/>
 
