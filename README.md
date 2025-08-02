@@ -1,7 +1,7 @@
 <!-- <img src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e475z0s30l4crjq7nvpzygw53ri44glm5qsrm37b0vs&rid=giphy.gif&ct=g"> -->
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-<a href="https://mrksohag.com/](https://www.linkedin.com/in/mrksohag/">
+<a href="https://www.linkedin.com/in/mrksohag/">
   <img align="left" alt="Mizanur Rahman Khan | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://mrksohag.com">
